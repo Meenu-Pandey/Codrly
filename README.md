@@ -93,6 +93,10 @@ ai-code-reviewer/
 ├── package.json
 └── README.md
 
+ScreenShots
+<img width="1905" height="914" alt="image" src="https://github.com/user-attachments/assets/f361712d-419c-4816-8b6a-870ea15a28c0" />
+
+
 Future Enhancements
 
 Auto-fix code using AI suggestions.
