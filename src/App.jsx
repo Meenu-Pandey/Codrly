@@ -40,7 +40,7 @@ const App = () => {
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
 
-  const ai = new GoogleGenAI({ apiKey: "YOUR_API_KEY" });
+  const ai = new GoogleGenAI({ apiKey: "AIzaSyB4DAz3X4AbDCQuBEnDqzITFUWERYe45oo" });
 
   const customStyles = {
     control: (provided) => ({ ...provided, backgroundColor: '#18181b', borderColor: '#3f3f46', color: '#fff', width: "100%" }),
